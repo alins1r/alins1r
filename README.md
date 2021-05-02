@@ -7,7 +7,7 @@
   
 ![profile visit](https://komarev.com/ghpvc/?username=alins1r)
 <br />
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=alins1r&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=alins1r&show_icons=true&theme=radical)
 
 </div>
 
