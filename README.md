@@ -1,6 +1,6 @@
 ### alins
 
-## Goal: trying to become a web hunter 
+## Goal: learn more about hunting
 
 ### 👦Stats 
 <div align="left">
@@ -18,6 +18,6 @@
 
 
 
-[telegram]: https://t.me/alins1r
+[telegram]: https://t.me/alins_ir
 [instagram]: https://www.instagram.com/alins.ir
 [twitter]:   https://twitter.com/alins_ir
